@@ -69,7 +69,7 @@ header.sticky ul li a {
 	filter: brightness(.5);
 }
 .banner::after {
-	conten: '';
+	content: '';
 	position: absolute;
 	bottom: 0;
 	left: 0;
